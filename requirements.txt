@@ -1,6 +1,5 @@
 numpy
 pytesseract
-opencv
 gunicorn
 django
 gunicorn
