@@ -1,0 +1,8 @@
+numpy
+opencv
+pytesseract
+opencv
+gunicorn
+django
+gunicorn
+django-heroku
