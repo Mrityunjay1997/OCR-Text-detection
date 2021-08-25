@@ -4,5 +4,3 @@ gunicorn
 django
 gunicorn
 django-heroku
-stremlit
-flask
