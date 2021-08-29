@@ -4,7 +4,3 @@ gunicorn
 django
 gunicorn
 django-heroku
-stremlit
-pandas
-scipy
-scikit-learn
